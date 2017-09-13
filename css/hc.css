@@ -59,7 +59,7 @@ p
 
 .container
 {
-  width:80%;
+  width:100%;
   padding-right:0;
   padding-top:30px
 }
@@ -490,7 +490,7 @@ time
 {
   font-weight:200;
   font-family:"Helvetica Neue", helvetica, "Open Sans",sans-serif;
-  color:#fff;
+  color:#2d1e18;
   text-align:center;
   left-padding:20%
 }
