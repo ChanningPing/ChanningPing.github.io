@@ -1,13 +1,13 @@
-name: Herring Cove
-author: Herring Cove
-baseurl: /herring-cove
-description: theme for jekyll
-github: http://www.github.com/arnp
-twitter: http://www.twitter.com/
-facebook: http://www.facebook.com
-linkedin: http://www.linkedin.com
-email: rnpatel[at]me.com
-location: 42°2'16"N   70°12'47"W
+name: Qing Ping
+author: Qing Ping
+baseurl: /ChanningPing.github.io
+description: personal website
+github: https://github.com/ChanningPing
+twitter: https://twitter.com/gaosuwoniu
+facebook: https://www.facebook.com/gaosu.woniu
+linkedin: https://www.linkedin.com/in/ping-qing-a64aa387/
+email: qp27@drexel.edu
+location: 39°57'20"N   75°11'51"W
 disqus: diqus-username
 
 ##Make sure to edit the above fields, especially for disqus.
