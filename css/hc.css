@@ -486,11 +486,14 @@ time
   padding-top:20px
 }
 
+
+
+
 .project-container p
 {
   font-weight:200;
   font-family:"Helvetica Neue", helvetica, "Open Sans",sans-serif;
-  color:#2d1e18;
+  color: #2d1e18;
   text-align:center;
   left-padding:20%
 }
